@@ -1,0 +1,58 @@
+[04-Nov-2023 10:19:58 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:19:58 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:20:12 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:20:12 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:20:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:20:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:20:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:20:50 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:20:50 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:21:30 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:21:30 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:21:39 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:21:39 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:21:50 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:21:50 UTC] PHP Notice:  Undefined index: name in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:22:05 UTC] PHP Notice:  Undefined index: fname in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:22:05 UTC] PHP Notice:  Undefined index: fname in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 58
+[04-Nov-2023 10:59:04 UTC] PHP Notice:  Undefined variable: row in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 60
+[04-Nov-2023 10:59:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 60
+[04-Nov-2023 10:59:04 UTC] PHP Notice:  Undefined variable: row in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:59:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:59:04 UTC] PHP Notice:  Undefined variable: row in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 63
+[04-Nov-2023 10:59:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 63
+[04-Nov-2023 10:59:07 UTC] PHP Notice:  Undefined variable: row in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 60
+[04-Nov-2023 10:59:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 60
+[04-Nov-2023 10:59:07 UTC] PHP Notice:  Undefined variable: row in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:59:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 61
+[04-Nov-2023 10:59:07 UTC] PHP Notice:  Undefined variable: row in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 63
+[04-Nov-2023 10:59:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/m7683xtppmp5/public_html/Admin_Panel/PHP-MySQL-CRUD-Operations/search.php on line 63
